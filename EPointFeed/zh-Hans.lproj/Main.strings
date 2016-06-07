@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "登录密码"; ObjectID = "Z8L-Rg-6XJ"; */
+"Z8L-Rg-6XJ.placeholder" = "登录密码";
+
+/* Class = "UIButton"; normalTitle = "进入"; ObjectID = "aAp-kT-Xb7"; */
+"aAp-kT-Xb7.normalTitle" = "进入";
+
+/* Class = "UILabel"; text = "易积分回馈平台"; ObjectID = "fW8-Rw-4JP"; */
+"fW8-Rw-4JP.text" = "易积分回馈平台";
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "oc3-FE-sTc"; */
+"oc3-FE-sTc.placeholder" = "用户名";
